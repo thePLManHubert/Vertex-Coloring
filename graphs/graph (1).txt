@@ -1,0 +1,13 @@
+12
+a{b,c,d,e,f,g,h,i,j,k,l}
+b{b,c,d,e,f,g,h,i,j,k,l}
+c{b,c,d,e,f,g,h,i,j,k,l}
+d{b,c,d,e,f,g,h,i,j,k,l}
+e{b,c,d,e,f,g,h,i,j,k,l}
+f{b,c,d,e,f,g,h,i,j,k,l}
+g{b,c,d,e,f,g,h,i,j,k,l}
+h{b,c,d,e,f,g,h,i,j,k,l}
+i{b,c,d,e,f,g,h,i,j,k,l}
+j{b,c,d,e,f,g,h,i,j,k,l}
+k{b,c,d,e,f,g,h,i,j,k,l}
+l{b,c,d,e,f,g,h,i,j,k,l}

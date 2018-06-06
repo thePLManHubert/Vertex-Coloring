@@ -1,0 +1,15 @@
+14
+a{b,c,d,e,f,g,h,i,j,k,l,m,n}
+b{a,c,d,e,f,g,h,i,j,k,l,m,n}
+c{a,b,d,e,f,g,h,i,j,k,l,m,n}
+d{a,b,c,e,f,g,h,i,j,k,l,m,n}
+e{a,b,c,d,f,g,h,i,j,k,l,m,n}
+f{a,b,c,d,e,g,h,i,j,k,l,m,n}
+g{a,b,c,d,e,f,h,i,j,k,l,m,n}
+h{a,b,c,d,e,f,g,i,j,k,l,m,n}
+i{a,b,c,d,e,f,g,h,j,k,l,m,n}
+j{a,b,c,d,e,f,g,h,i,k,l,m,n}
+k{a,b,c,d,e,f,g,h,i,j,l,m,n}
+l{a,b,c,d,e,f,g,h,i,j,k,m,n}
+m{a,b,c,d,e,f,g,h,i,j,k,l,n}
+n{a,b,c,d,e,f,g,h,i,j,k,l,m}

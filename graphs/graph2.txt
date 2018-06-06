@@ -1,0 +1,9 @@
+8
+a{w,b,x,y,z,u}
+b{a,z,y}
+x{a,y}
+y{a,b,z,x}
+z{w,a,b,x}
+t{}
+w{a,z,u}
+u{w,a}

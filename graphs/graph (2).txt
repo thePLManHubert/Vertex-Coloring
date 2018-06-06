@@ -1,0 +1,6 @@
+5
+a{b,x,y,z}
+b{a,z}
+x{z,a}
+y{a}
+z{a,b,x}
